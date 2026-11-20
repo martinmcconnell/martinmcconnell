@@ -4,7 +4,7 @@
 │                                                                  │
 │   Martin McConnell                                               │
 │   Linux kernel engineer · ARM64 · C                              │
-│   ex-Red Hat (RHIVOS automotive)  ·  Waterford, Ireland          │
+│   ·  Waterford, Ireland                                          │
 │                                                                  │
 └──────────────────────────────────────────────────────────────────┘
 ```
@@ -20,7 +20,7 @@
 
 ### `▸ whoami.exe`
 
-I work at the point where Linux meets hardware. I spent about 2.5 years at Red Hat carrying a distro kernel
+I work at the point where Linux meets hardware. I spent about 2.5 years at Red Hat on
 (CentOS Stream 9 / RHEL 9) for ARM64 automotive SoCs (TI Jacinto, Renesas, Qualcomm), from driver
 backports and device tree changes through to building images and flashing boards. Now I'm working on the
 weird-machine end of things: IBM Z, the Rockchip RK3576, and kernel Rust.
